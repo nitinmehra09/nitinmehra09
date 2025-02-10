@@ -20,5 +20,3 @@ I’m a passionate programmer skilled in Python, Java, and C/C++, with a focus o
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nitinmehra09&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
