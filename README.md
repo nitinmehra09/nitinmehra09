@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Nitin Mehra! I specialize in Python, with a strong foundation in C and C++, crafting intelligent solutions through code. Always learning, always innovating. Beyond tech, I’m fueled by music, gaming, and the thrill of new challenges. Let’s create something amazing!
+<h3>Hi, I’m Nitin Mehra! I specialize in Python, with a strong foundation in C and C++, crafting intelligent solutions through code. Always learning, always innovating. Beyond tech, I’m fueled by music, gaming, and the thrill of new challenges. Let’s create something amazing!</h3>
 
 
 ## 🌐 Socials:
