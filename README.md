@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://github.com/nitinmehra09&label=Profile%20views&color=0e75b6&style=flat" alt="nitinmehra09" /> </p>
 
-<p align="left"> <a href="https://twitter.com/just_ani02" target="blank"><img src="https://img.shields.io/twitter/follow/just_ani02?logo=twitter&style=for-the-badge" alt="just_ani02" /></a> </p>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mihirmehra_09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinmehra09) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nitinmehra_09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nitinmehra_09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@whiteeeanimates) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitinmehra2k4@gmail.com) 
 
