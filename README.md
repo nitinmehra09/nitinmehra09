@@ -19,3 +19,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nitinmehra09&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## ⚡ Coding Profiles  
+
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nitinmehra_09/) 
+|--------------------------------|--------------------------------|--------------------------------|  
+
