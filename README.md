@@ -2,7 +2,7 @@
 <h3>Hi, I’m Nitin Mehra! I specialize in Python, Java, and C/C++, crafting intelligent solutions with AI. With a keen eye for problem-solving and a talent for writing effective prompts, I push the boundaries of what's possible. Beyond coding, I thrive on music, gaming, and creative challenges. Let’s build something extraordinary!</h3>
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=orange)](https://nitinmehra.me)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=orange)](https://nitinmehra.me)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mihirmehra_09) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinmehra09) 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/nitinmehra_09) 
