@@ -31,9 +31,9 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-
 ## 🚀 Projects Built So Far  
-1.🩸 Blood Bank Web Application  
+
+## 1.🩸 Blood Bank Web Application  
 
   <h4>A "web-based Blood Bank Management System" designed to streamline the process of blood donation, requests, and inventory management.</h4>
   
@@ -46,6 +46,19 @@
 
 📂 **Repository**: [Blood Bank Web App](https://github.com/nitinmehra09/blood-bank-webapp)  
 
+## 2. NextGen Library System
+
+  <h4>A clean and interactive **Library Management Interface** built with **HTML, CSS & JavaScript**, focused on smooth navigation and modern UI experience.</h4>
+
+  ### 🔹 Features
+    * 📘 Book browsing interface
+    * 🔍 Instant JavaScript search
+    * 👥 Member & record pages
+    * 🎨 Responsive, minimal UI
+
+🔗 **Repo:** [NextGen Library System](https://github.com/nitinmehra09/NextGen-Library-System)
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nitinmehra09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
