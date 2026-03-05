@@ -11,6 +11,12 @@ Hey, I’m Nitin Mehra 👋 I love building things with Python, Java, and C/C++.
 When I’m not coding, you’ll probably find me listening to music, gaming, or exploring something new just out of curiosity. I’m always learning, always improving, and always ready to build something cool. Let’s create something awesome together 🚀
 </h3>
 
+## 👀 Profile Views
+<p>
+<img src="https://komarev.com/ghpvc/?username=nitinmehra09&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+
 ---
 
 ## 🌐 Connect With Me
@@ -110,17 +116,22 @@ https://github.com/nitinmehra09/NextGen-Library-System
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nitinmehra09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
 
-[![](https://visitcount.itsvg.in/api?id=nitinmehra09&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nitinmehra09&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+</p>
+
 
 
 ## 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nitinmehra09&layout=compact&theme=github_dark&hide_border=true" />
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitinmehra09&theme=github_dark"/>
 </p>
+
+
+
 
 ## ⚡ Coding Profiles  
 
