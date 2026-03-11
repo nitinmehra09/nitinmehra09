@@ -116,13 +116,6 @@ https://github.com/nitinmehra09/NextGen-Library-System
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nitinmehra09&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-</p>
-
-
 
 ## 📈 Most Used Languages
 
